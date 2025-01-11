@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlops/Prj2HousePredictionModelusingmlflow/mlruns/0/b76a7c5355ba4b45b46cab9d4c698d4c/artifacts
+end_time: 1736511487821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b76a7c5355ba4b45b46cab9d4c698d4c
+run_name: shivering-slug-526
+run_uuid: b76a7c5355ba4b45b46cab9d4c698d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736511482247
+status: 4
+tags: []
+user_id: Admin

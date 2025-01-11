@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlops/Prj2HousePredictionModelusingmlflow/mlruns/0/dc31af92a32148578ef934648f533a6d/artifacts
+end_time: 1736511349238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc31af92a32148578ef934648f533a6d
+run_name: bouncy-bass-227
+run_uuid: dc31af92a32148578ef934648f533a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736511349076
+status: 4
+tags: []
+user_id: Admin

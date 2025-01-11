@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mlops/Prj2HousePredictionModelusingmlflow/mlruns/0/4d0fac7fadbe4ab596ec49c7c4f698e0/artifacts
+end_time: 1736511373434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d0fac7fadbe4ab596ec49c7c4f698e0
+run_name: placid-squid-250
+run_uuid: 4d0fac7fadbe4ab596ec49c7c4f698e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736511373344
+status: 4
+tags: []
+user_id: Admin
